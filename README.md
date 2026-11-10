@@ -20,3 +20,4 @@ README.md
 notes.txt
 sub/hello.md
 ```
+smoke test by superagent
